@@ -1,3 +1,9 @@
+src/node_modules
+database/data/*
+
+!database/data/.gitkeep
+
+
 # Logs
 logs
 *.log
